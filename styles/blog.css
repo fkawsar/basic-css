@@ -1,0 +1,27 @@
+.header{
+    height: 450px;
+    /* background-image:url(tanvir.jpg); */
+    /* background-repeat: round; */
+    /* background-image: url(../image/verified.png); */
+    background-image: url(tanvir.jpg);
+    /* background-size:5%; */
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: bottom;
+}
+h3{
+    color: blueviolet;
+    text-decoration: wavy chartreuse;
+}
+li{
+    color: crimson;
+}
+.blog{
+    border: 20px;
+    border-color: rgb(238, 239, 241);
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(241, 243, 248);
+    text-decoration: wavy chocolate;
+    color: blue;
+}
